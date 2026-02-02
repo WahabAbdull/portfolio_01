@@ -1,0 +1,22 @@
+site_name: Engr. Abdul Wahab
+copyright: Engr. Abdul Wahab
+
+nav:
+  - Home: index.md
+  - About Me: about.md
+  - Projects: projects.md
+  - Skills and Expertise: skills.md
+  - Certification and Credentials: certifications.md
+  - Resume: resume.md
+  - Contact: contact.md
+
+
+markdown_extensions:
+  - attr_list
+
+theme:
+  name: windmill
+  custom_dir: overrides
+  highlightjs: true
+  include_homepage_in_sidebar: false
+  include_search_page: true
