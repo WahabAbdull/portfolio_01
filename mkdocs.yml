@@ -1,6 +1,9 @@
 site_name: Engr. Abdul Wahab
 copyright: Engr. Abdul Wahab
-site_favicon: assets/images/favicon.png
+site_description: Portfolio of Abdul Wahab - Mechanical Design Engineer & Product Designer
+site_author: Abdul Wahab
+
+
 
 nav:
   - Home: index.md
@@ -21,3 +24,14 @@ theme:
   highlightjs: true
   include_homepage_in_sidebar: false
   include_search_page: true
+  favicon: ./assets/images/favicon.png
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/WahabAbdull
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/abdul-wahab-4085b72b0/
+    - icon: fontawesome/brands/behance
+      link: https://www.behance.net/gallery/215636069/Abdul-Wahab
+  favicon: ./assets/images/favicon.ico
