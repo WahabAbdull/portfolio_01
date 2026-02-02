@@ -1,6 +1,7 @@
 <!-- # Resume -->
 
-> **[Download PDF Version](abdul_wahab_cv.pdf)**
+<!-- > **[Download PDF Version](abdul_wahab_cv.pdf)** -->
+> [![Download CV in pdf](https://img.shields.io/badge/Download-CV_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](abdul_wahab_cv.pdf)
 
 ---
 

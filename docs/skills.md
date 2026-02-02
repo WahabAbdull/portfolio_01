@@ -1,5 +1,5 @@
 <!-- # Skills & Expertise -->
-
+<br>
 #### **💻 Technical Skills**
 
 * SOLIDWORKS
@@ -8,7 +8,7 @@
 * Project Management
 * Microsoft Office
 * Minitab
-<br>
+<br><br>
 
 #### **🧠 Soft Skills**
 
@@ -18,13 +18,13 @@
 * Problem Solving
 * Critical Thinking
 * Emotional Intelligence
-<br>
+<br><br>
 
 #### 🖥️ **Tools**
 * SOLIDWORKS
 * Minitab
 * MS Office
-<br>
+<br><br>
 
 #### **🌐 Languages**
 * English (Professional)

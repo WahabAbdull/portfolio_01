@@ -25,7 +25,7 @@ A cordless, modular personal mixer engineered in SolidWorks with a 5-piece quick
 - **Safety:** Double-click capacitive start button with LED indicator; Hall-effect sensor prevents operation when detached
 - **Power:** 2000mAh lithium-ion battery pack with PCM protection; 3–4 hour charge cycle via rear-mounted USB-C port
 
-## 3D Rendering Images | Mixture Machine
+## Project Gallery
 
 [![Behance](https://img.shields.io/badge/Behance-0A66C2?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gallery/215636069/Abdul-Wahab)
 

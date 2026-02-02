@@ -6,13 +6,20 @@
 ## Mechanical Design Engineer and Product Designer
 > **Transforming Concepts into Production-Ready Designs**
 
-[**View Projects**](projects.md)  |  [**Download Resume**](abdul_wahab_cv.pdf)  |  [**Contact Me**](contact.md)
+<!-- [**View Projects**](projects.md)  |  [**Download Resume**](abdul_wahab_cv.pdf)  |  [**Contact Me**](contact.md) -->
+
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](abdul_wahab_cv.pdf)
+[![Projects](https://img.shields.io/badge/View-Projects-red?style=for-the-badge&logo=code&logoColor=white)](projects.md)
+[![Contact](https://img.shields.io/badge/Contact-Me-red?style=for-the-badge&logo=maildotru&logoColor=white)](contact.md)
+
+
+
 
 ---
 
 #### **Quick Introduction**
 
-Mechanical Design Engineer and Product Designer with 1.5+ years of hands-on experience specializing in SolidWorks-based CAD modeling. Skilled in 3D part design, complex assemblies, and detailed manufacturing drawings in compliance with engineering standards. proven experience designing industrial machinery, mechanical systems, and consumer products.
+Mechanical Design Engineer and Product Designer with 1.5+ years of hands-on experience specializing in SolidWorks-based CAD modeling. Skilled in 3D part design, complex assemblies, and detailed manufacturing drawings in compliance with engineering standards, proven experience designing industrial machinery, mechanical systems, and consumer products.
 
 *   **Experience:** 1.5+ years of hands-on experience
 *   **Specialization:** SolidWorks CAD modeling
@@ -30,21 +37,21 @@ Mechanical Design Engineer and Product Designer with 1.5+ years of hands-on expe
 
 ---
 
-#### **Featured Projects Preview**
+#### **Featured Projects**
 
-##### [Project 1: Universal Flush-Driven Aerosol Air Freshener Mechanism](projects/project_01.md)
+##### [**Project 1: Universal Flush-Driven Aerosol Air Freshener Mechanism**](projects/project_01.md)
 *   **Overview:** A fully mechanical, flush-actuated air freshener system operating without electricity.
 *   ![Thumbnail](assets/images/projects/project_1_universal%20flush_driven_aerosol_air_freshener_mechanism/complete%20assembly.JPG){width="150"}
 
-##### [Project 2: Mixture Machine](projects/project_02.md)
+##### [**Project 2: Mixture Machine**](projects/project_02.md)
 *   **Overview:** A cordless, modular personal blender with USB-C charging and easy-clean design.
 *   ![Thumbnail](assets/images/projects/project_2_mixture_machine/1.jpeg){width="150"}
 
-##### [Project 3: CLI Toothbrush](projects/project_03.md)
+##### [**Project 3: CLI Toothbrush**](projects/project_03.md)
 *   **Overview:** Sustainable toothbrush design with UV sanitization and travel-friendly travel case.
 *   ![Thumbnail](assets/images/projects/project_3_cli_toothbrush/1.PNG){width="150"}
    
-##### [Project 4: Mini Projects](projects/project_03.md)
+##### [**Project 4: Mini Projects**](projects/project_03.md)
 *   **Overview:** Fluid power, thermal transfer, solar capture, sealing, device protection, structural support, kinetic demo.
 *   ![Thumbnail](assets/images/projects/project_4_mini_projects/2.PNG){width="150"}
 

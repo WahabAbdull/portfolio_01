@@ -28,6 +28,8 @@ theme:
 
 extra:
   social:
+    - icon: fontawesome/brands/upwork
+      link: https://www.upwork.com/freelancers/~019c119d09bbe7f8c9
     - icon: fontawesome/brands/github
       link: https://github.com/WahabAbdull
     - icon: fontawesome/brands/linkedin
