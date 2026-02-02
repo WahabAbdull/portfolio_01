@@ -4,17 +4,17 @@
 #### **📜 Professional Registration**
 * Pakistan Engineering Council (PEC) Registration
 * Official Recognition as Registered Engineer
-* Certificate/Badge Display
+<!-- * Certificate/Badge Display -->
 
 <br>
 
-#### **📐 CAD & Design Certifications**
+#### **📐 CAD and Design Certifications**
 * Certified SolidWorks CAD Design Associate
-* Certificate Image & Verification Link
+<!-- * Certificate Image and Verification Link -->
 
 <br>
 
-#### **📈 Process Improvement & Quality**
+#### **📈 Process Improvement and Quality**
 * Lean Six Sigma White Belt (LSSWB)
 * Lean Six Sigma Yellow Belt (LSSYB)
 * Lean Fundamentals and Production
@@ -22,7 +22,7 @@
 
 <br>
 
-#### **⛑️ Safety & First Aid**
+#### **⛑️ Safety and First Aid**
 * CPR Certification
 * AED (Automated External Defibrillator)
 * First Aid Certification

@@ -17,7 +17,7 @@ The CLI system combines sonic drive technology with UV-C sanitization in a slidi
 
 **Functions:**
 
-- Mechanical Drive: Sonic vibration motor generating 31,000 strokes/minute via magnetic suspension
+<!-- - Mechanical Drive: Sonic vibration motor generating 31,000 strokes/minute via magnetic suspension -->
 - UV Sterilization: Auto-triggered 2-minute sanitization cycle upon case closure, mercury-free LED
 - Modular Interface: Tool-free head replacement with tolerance-locked stainless steel pins
 - Power System: 800mAh lithium-polymer cell with USB-C PD charging; 30-day standby capacity

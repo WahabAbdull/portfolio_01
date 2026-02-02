@@ -3,33 +3,30 @@
 #### **💻 Technical Skills**
 
 * SOLIDWORKS
-* 3D CAD Modeling & Rendering
 * 2D Technical Drawing
-* Minitab
-* Microsoft Office
+* 3D CAD Modeling and Rendering
 * Project Management
-    
+* Microsoft Office
+* Minitab
 <br>
 
 #### **🧠 Soft Skills**
 
 * Clear Communication
-* Detailed Oriented
 * Time Management
+* Detailed Oriented
 * Problem Solving
-* Emotional Intelligence
 * Critical Thinking
-   
+* Emotional Intelligence
 <br>
 
 #### 🖥️ **Tools**
 * SOLIDWORKS
 * Minitab
 * MS Office
-
 <br>
 
 #### **🌐 Languages**
 * English (Professional)
 * Seraiki (Native)
-* Urdu & Hindi (Fluent)
+* Urdu and Hindi (Fluent)

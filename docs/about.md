@@ -13,10 +13,14 @@
 *   **B.Sc. Mechanical Engineering**
     *   University of Engineering and Technology, Peshawar
     *   *September 2019 – October 2023*
-    *   **Final Year Project:** Automated Water Dispenser Bottle Installation
+    *   **Final Year Project:** Automated Water Dispenser Bottle Installation Mechanism
+    *   **CGPA:** 2.97 / 4.00
     <br><br>
 *   **Pre-Engineering**
     *   WENSAM College, Dera Ismail Khan
+    *   *September 2017 – June 2018*
+    *   **Field:** Pre-Engineering 
+    *   **Marks:** 886 / 1100
 
 ---
 
@@ -34,19 +38,20 @@
     *   Industrial and consumer product design
 <br><br>
 
-*   **US Tax Preparer & Business Consultant (Part-time)**
+*   **US Tax Preparer and Business Consultant (Part-time)**
+    *   *December 2024 – Present*
     *   Be-Filing, Islamabad
 
 ---
 
 #### 🛠️ **What I Offer**
 
-*   3D CAD Modeling & Complex Assemblies
+*   3D CAD Modeling and Complex Assemblies
 *   Manufacturing-Ready Technical Drawings (2D)
-*   Product Design & Industrial Design Consultation
+*   Product Design and Industrial Design Consultation
 *   Photorealistic 3D Rendering
 *   Prototyping Support
-*   Material Selection & Manufacturing Process Optimization
+*   Material Selection and Manufacturing Process Optimization
 
 ---
 
