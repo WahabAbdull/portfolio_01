@@ -1,5 +1,6 @@
 site_name: Engr. Abdul Wahab
 copyright: Engr. Abdul Wahab
+site_favicon: assets/images/favicon.png
 
 nav:
   - Home: index.md
