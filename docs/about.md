@@ -60,4 +60,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Linkedin**](https://www.linkedin.com/in/abdul-wahab-4085b72b0/) | [**Behance**](https://www.behance.net/gallery/215636069/Abdul-Wahab) | [**E-mail**](mailto:abdulwahabeng2023@gmail.com)
  
 
-<!-- [**View Projects**](projects.md)  |  [**Download Resume**](abdul_wahab_cv.pdf)  |  [**Contact Me**](contact.md) -->

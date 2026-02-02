@@ -48,11 +48,3 @@ Mechanical Design Engineer and Product Designer with 1.5+ years of hands-on expe
 *   **Overview:** Fluid power, thermal transfer, solar capture, sealing, device protection, structural support, kinetic demo.
 *   ![Thumbnail](assets/images/projects/project_4_mini_projects/2.PNG){width="150"}
 
-
-
-<!-- 
-## Education
-
-**Bachelor of Science** | University of Engineering and Technology, Peshawar
-*   Mechanical Engineering (2019 – 2023)
--->
